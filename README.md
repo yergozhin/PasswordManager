@@ -5,24 +5,12 @@ A simple password manager implemented in C++. This program allows users to creat
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Usage](#usage)
 - [Functionalities](#functionalities)
 
 ## Introduction
 
 The Password Manager project is a console-based application that provides basic password management functionalities. Users can create, edit, delete, search, and organize passwords within a secure password manager file.
-
-## Features
-
-- **Create Passwords:** Users can create passwords for specific files.
-- **Generate Passwords:** Users can generate random passwords for different files.
-- **Search Passwords:** Search for passwords based on category, title, or both.
-- **Sort Passwords:** Sort passwords alphabetically by category and title.
-- **Edit Passwords:** Modify existing passwords within the password manager file.
-- **Delete Passwords:** Remove passwords from the password manager file.
-- **Add Categories:** Organize passwords by adding categories.
-- **Delete Categories:** Remove entire categories along with associated passwords.
 
 ## Usage
 
@@ -41,3 +29,35 @@ The Password Manager project is a console-based application that provides basic 
 ### Exit:
 
 Choose option (3) in the main menu to exit the program.
+
+## Functionalities
+
+The password manager provides the following functionalities:
+
+### Add Password:
+
+Create and add a new password to the password manager.
+
+### Delete Password:
+
+Remove a password from the password manager.
+
+### Search Password:
+
+Search for passwords based on category, title, or both.
+
+### Sort Password:
+
+Sort passwords alphabetically by category and title.
+
+### Edit Password:
+
+Modify existing passwords within the password manager.
+
+### Add Category:
+
+Organize passwords by adding categories.
+
+### Delete Category:
+
+Remove entire categories along with associated passwords.

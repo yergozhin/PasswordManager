@@ -14,19 +14,19 @@ The Password Manager project is a console-based application that provides basic 
 
 ## Usage
 
-### Create New Password Manager File:
+#### Create New Password Manager File:
 
 1. Choose option (1) in the main menu.
 2. Enter a new file name when prompted.
 3. Follow the instructions to create a password and set up the password manager.
 
-### Open Password Manager File:
+#### Open Password Manager File:
 
 1. Choose option (2) in the main menu.
 2. Enter the name of the existing password manager file.
 3. Provide the correct password to access the password manager functionalities.
 
-### Exit:
+#### Exit:
 
 Choose option (3) in the main menu to exit the program.
 

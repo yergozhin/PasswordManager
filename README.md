@@ -34,30 +34,10 @@ Choose option (3) in the main menu to exit the program.
 
 The password manager provides the following functionalities:
 
-### Add Password:
-
-Create and add a new password to the password manager.
-
-### Delete Password:
-
-Remove a password from the password manager.
-
-### Search Password:
-
-Search for passwords based on category, title, or both.
-
-### Sort Password:
-
-Sort passwords alphabetically by category and title.
-
-### Edit Password:
-
-Modify existing passwords within the password manager.
-
-### Add Category:
-
-Organize passwords by adding categories.
-
-### Delete Category:
-
-Remove entire categories along with associated passwords.
+- ### Add Password: Create and add a new password to the password manager.
+- ### Delete Password: Remove a password from the password manager.
+- ### Search Password: Search for passwords based on category, title, or both.
+- ### Sort Password: Sort passwords alphabetically by category and title.
+- ### Edit Password: Modify existing passwords within the password manager.
+- ### Add Category: Organize passwords by adding categories.
+- ### Delete Category: Remove entire categories along with associated passwords.

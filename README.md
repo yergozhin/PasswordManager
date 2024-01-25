@@ -6,7 +6,7 @@ A simple password manager implemented in C++. This program allows users to creat
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Features](#features)
+- [Functionalities](#functionalities)
 
 ## Introduction
 
@@ -30,9 +30,9 @@ The Password Manager project is a console-based application that provides basic 
 
 Choose option (3) in the main menu to exit the program.
 
-## Features
+## Functionalities
 
-The password manager provides the following features:
+The password manager provides the following functionalities:
 
 - **Create Passwords:** Users can create passwords for specific files.
 - **Generate Passwords:** Users can generate random passwords for different files.

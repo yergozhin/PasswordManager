@@ -42,3 +42,7 @@ The password manager provides the following functionalities:
 - **Delete Passwords:** Remove passwords from the password manager file.
 - **Add Categories:** Organize passwords by adding categories.
 - **Delete Categories:** Remove entire categories along with associated passwords.
+
+
+https://github.com/yergozhin/PasswordManager/assets/101567490/472e1332-6f88-488a-922d-4fac1b39452c
+

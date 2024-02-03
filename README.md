@@ -46,6 +46,8 @@ The password manager provides the following functionalities:
 
 ## Video Presentations
 
-- #### Creating Password Manager File And Opening It:
+#### Creating Password Manager File And Opening It:
+- **File Name:**
+- **File Password:**
 https://github.com/yergozhin/PasswordManager/assets/101567490/472e1332-6f88-488a-922d-4fac1b39452c
 

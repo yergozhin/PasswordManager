@@ -7,6 +7,7 @@ A simple password manager implemented in C++. This program allows users to creat
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Functionalities](#functionalities)
+- [Video Presentations](#video-presentations)
 
 ## Introduction
 
@@ -43,6 +44,7 @@ The password manager provides the following functionalities:
 - **Add Categories:** Organize passwords by adding categories.
 - **Delete Categories:** Remove entire categories along with associated passwords.
 
+## Video Presentations
 
 https://github.com/yergozhin/PasswordManager/assets/101567490/472e1332-6f88-488a-922d-4fac1b39452c
 

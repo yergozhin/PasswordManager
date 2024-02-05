@@ -52,3 +52,11 @@ The password manager provides the following functionalities:
 
 https://github.com/yergozhin/PasswordManager/assets/101567490/472e1332-6f88-488a-922d-4fac1b39452c
 
+#### Adding Password to a Password Manager File:
+- **Password Category:** Temp
+- **Password Title:** Temp
+- **Password Login:** TemporaryLogin
+- **Generated Password:** cm$&55*jR+g78Lt
+
+https://github.com/yergozhin/PasswordManager/assets/101567490/6cb31c8d-d5e6-49e6-bf79-ea128542d7db
+
